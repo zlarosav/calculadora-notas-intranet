@@ -18,4 +18,4 @@ Extensión que calcula automáticamente las notas necesarias para alcanzar tu pr
 3. Ingresa tu promedio deseado (por defecto: 10.5)
 4. Las notas necesarias se calcularán automáticamente y aparecerán en **azul** en la tabla
 
-![Preview](pewview/Notas.png)
+![Preview](preview/Notas.png)
