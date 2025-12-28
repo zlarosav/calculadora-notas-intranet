@@ -4,11 +4,11 @@ Extensión que calcula automáticamente las notas necesarias para alcanzar tu pr
 
 ## 🚀 Instalación
 
-1. Descomprime el contenido descargado en una carpeta con el nombre `Calculadora de Notas` (el nombre puede ser de tu elección)
+1. Descomprime el contenido descargado, tendrás una carpeta con el nombre `Calculadora de Notas`
 2. Abre tu navegador y ve a `chrome://extensions/`
 3. Activa el **Modo de desarrollador** (esquina superior derecha)
 4. Click en **Cargar extensión sin empaquetar**
-6. Selecciona la carpeta `Calculadora de Notas` que descomprimimos anteriormente.
+6. Selecciona la carpeta `Calculadora de Notas`.
 7. ¡Listo! La extensión aparecerá en tu lista
 
 ## 📖 Uso
@@ -17,3 +17,5 @@ Extensión que calcula automáticamente las notas necesarias para alcanzar tu pr
 2. La calculadora aparecerá automáticamente debajo de tu tabla de notas
 3. Ingresa tu promedio deseado (por defecto: 10.5)
 4. Las notas necesarias se calcularán automáticamente y aparecerán en **azul** en la tabla
+
+![Preview](pewview/Notas.png)
