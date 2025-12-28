@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Calculadora de Notas",
+  "version": "1.0.0",
+  "description": "Calcula automáticamente las notas necesarias para alcanzar tu promedio deseado en la Intranet UNJFSC",
+  "icons": {
+    "16": "img/icon16.png",
+    "64": "img/icon64.png",
+    "128": "img/icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://intranet.unjfsc.edu.pe/ZonaEstudiante/frmEvaluacionesParciales.aspx*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "permissions": []
+}
