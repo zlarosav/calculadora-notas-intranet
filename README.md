@@ -1,4 +1,4 @@
-# 📊 Calculadora de Notas UNJFSC - Extensión de Chrome/Edge
+# 📊 Calculadora de Notas UNJFSC
 
 Extensión que calcula automáticamente las notas necesarias para alcanzar tu promedio deseado en la Intranet UNJFSC.
 
