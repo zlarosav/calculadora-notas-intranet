@@ -4,24 +4,12 @@ Extensión que calcula automáticamente las notas necesarias para alcanzar tu pr
 
 ## 🚀 Instalación
 
-### Chrome
-
-1. Abre Chrome y ve a `chrome://extensions/`
-2. Activa el **Modo de desarrollador** (esquina superior derecha)
-3. Click en **Cargar extensión sin empaquetar**
-4. Selecciona la carpeta `Ext` que contiene estos archivos:
-   - `manifest.json`
-   - `content.js`
-   - `icon16.png`, `icon64.png`, `icon128.png`
-5. ¡Listo! La extensión aparecerá en tu lista
-
-### Microsoft Edge
-
-1. Abre Edge y ve a `edge://extensions/`
-2. Activa el **Modo de desarrollador** (esquina inferior izquierda)
-3. Click en **Cargar descomprimida**
-4. Selecciona la carpeta `Ext`
-5. ¡Listo!
+1. Descomprime el contenido descargado en una carpeta con el nombre `Calculadora de Notas` (el nombre puede ser de tu elección)
+2. Abre tu navegador y ve a `chrome://extensions/`
+3. Activa el **Modo de desarrollador** (esquina superior derecha)
+4. Click en **Cargar extensión sin empaquetar**
+6. Selecciona la carpeta `Calculadora de Notas` que descomprimimos anteriormente.
+7. ¡Listo! La extensión aparecerá en tu lista
 
 ## 📖 Uso
 
